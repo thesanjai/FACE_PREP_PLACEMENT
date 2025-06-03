@@ -1,0 +1,5 @@
+# Ignore Python virtual environment
+DAY 8/venv/
+
+# Ignore VS Code settings folder
+DAY 8/.vscode/
